@@ -1,3 +1,7 @@
 Hi my name is lester
 
+<<<<<<< HEAD
 I like red
+=======
+I like peach
+>>>>>>> practice
